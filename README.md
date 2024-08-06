@@ -16,3 +16,12 @@ HTTP/S stands for Hypertext Transport Protocol/Secure.
 When linking to something within the same siteas the page containing the link, a relative URL can be used instead.
 To create a relative URL, omit the domain name but include the initial slash at the beginning.
 Relative URLs are based on the current file's location, while absolute URLs start from the root of the website.
+
+example of adding images to website via html; 
+" <img src="/dog.jpg" alt="a picture of a dog" width="" height=""> "
+"alt=" is used for same purpose as aria. should add it even if blank, else screen reader will read the actual image name.
+Inluding width and height attributes help with website rendering and enhances user experience.
+
+GIFs for compressing illustrations that have mostly the same colours, but pixelates photographs.
+SVGs are perfect for logos & icons. Scaled to size without losing quality, and the size remains small.SVG is actually a programming language for graphics.
+JPGs are a good choice for compressing photographs. Important to resize else will slow loading speed
