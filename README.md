@@ -18,10 +18,13 @@ To create a relative URL, omit the domain name but include the initial slash at 
 Relative URLs are based on the current file's location, while absolute URLs start from the root of the website.
 
 example of adding images to website via html; 
-" <img src="/dog.jpg" alt="a picture of a dog" width="" height=""> "
+" <img src="https://i.postimg.cc/j5hn1Th0/labrador-8554882-640.jpg" alt="a picture of a dog" width="" height=""> "
+[![labrador-8554882-640.jpg](https://i.postimg.cc/j5hn1Th0/labrador-8554882-640.jpg)](https://postimg.cc/34dwyP6n)
 "alt=" is used for same purpose as aria. should add it even if blank, else screen reader will read the actual image name.
 Inluding width and height attributes help with website rendering and enhances user experience.
 
 GIFs for compressing illustrations that have mostly the same colours, but pixelates photographs.
 SVGs are perfect for logos & icons. Scaled to size without losing quality, and the size remains small.SVG is actually a programming language for graphics.
 JPGs are a good choice for compressing photographs. Important to resize else will slow loading speed
+PNG is a newer format. It sometimes outperforms both GIF and JPG in compression of images.
+To support different screen resolutions and device speeds, create copies of same image in different resolutions & add to HTML using srcset inside your <img>
