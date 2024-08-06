@@ -33,5 +33,3 @@ instead of specifying pixels you may specify width aswell. The browser decides w
 Aim to send the smallest file possible while still delivering beautiful images.
 
 The audio element also takes a source link like the picture element. it allows you to play music or sound effects and has attributes to control volume and autoplay and looping etc. This is a prebuilt audio player. MP3 formats are most popular.
-
-<audio controls src="https://drive.google.com/file/d/1Yh1eFV1wj4HftLk3C3FP1oelnbGntj4m/view?usp=drive_link"></audio>
