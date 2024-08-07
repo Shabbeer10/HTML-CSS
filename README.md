@@ -33,3 +33,16 @@ instead of specifying pixels you may specify width aswell. The browser decides w
 Aim to send the smallest file possible while still delivering beautiful images.
 
 The audio element also takes a source link like the picture element. it allows you to play music or sound effects and has attributes to control volume and autoplay and looping etc. This is a prebuilt audio player. MP3 formats are most popular.
+
+Video element allows you to play videos on your website, and similiar to using audio files, you would want to optimise user experience by finding the right file sizes and resolutions, and making the content accessible to all in the form of sound and text (subtitles or captions).
+
+Using the iframe tag it is possible to imbed an entire website into your own website. an example of using iframe tags is when we come accross videos that are playing straight from youtube, but you are on a different website.
+
+Remember to set the language, text direction and charset of your website. This allows the browser to know which languages and character sets of those languages to use. Unicode, particularly UTF-8, is widely used as a character set. It encodes content to support a vast range of characters, scripts, and even emojis.
+
+Prioritise simantic elements. div(block) and span(inline) work best when applying css or javascript
+
+Common use of meta tags is to inform the browser that the layout has been adjusted to fit small screens, or to include a description of the site, which appears in search engine results, to design an attractive card that shows when a link is shared etc.
+
+link tag is used to connet assets to the html file, like .css icons, fonts, audio, videos etc
+scipt tag to load javascript, python etc
