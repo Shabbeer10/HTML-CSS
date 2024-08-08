@@ -46,3 +46,5 @@ Common use of meta tags is to inform the browser that the layout has been adjust
 
 link tag is used to connet assets to the html file, like .css icons, fonts, audio, videos etc
 scipt tag to load javascript, python etc
+
+Use table element only if you have data that needs to be sorted in such a way, else, do not use it
