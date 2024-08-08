@@ -48,3 +48,5 @@ link tag is used to connet assets to the html file, like .css icons, fonts, audi
 scipt tag to load javascript, python etc
 
 Use table element only if you have data that needs to be sorted in such a way, else, do not use it
+
+To make our pages look better by changing the font, colors, and spacing, we need CSS.
