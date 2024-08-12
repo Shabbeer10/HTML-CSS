@@ -50,3 +50,7 @@ scipt tag to load javascript, python etc
 Use table element only if you have data that needs to be sorted in such a way, else, do not use it
 
 To make our pages look better by changing the font, colors, and spacing, we need CSS.
+
+You can assign classes to HTML elements to create a reference point for styling.
+
+A descendant selector allows us to select list items that are descendants of either an ordered or an unordered list
