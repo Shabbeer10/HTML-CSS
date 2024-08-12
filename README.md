@@ -54,3 +54,5 @@ To make our pages look better by changing the font, colors, and spacing, we need
 You can assign classes to HTML elements to create a reference point for styling.
 
 A descendant selector allows us to select list items that are descendants of either an ordered or an unordered list
+
+We have learned about colors, background colors, padding, margin, borders, fonts, and different ways to style them, like bold and uppercase letters.
