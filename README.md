@@ -56,3 +56,5 @@ You can assign classes to HTML elements to create a reference point for styling.
 A descendant selector allows us to select list items that are descendants of either an ordered or an unordered list
 
 We have learned about colors, background colors, padding, margin, borders, fonts, and different ways to style them, like bold and uppercase letters.
+
+One trick is to add a background color or a border to the element you want to style. This can reveal hidden information as to why your website doesnt look the way you want it.
